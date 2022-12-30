@@ -1,7 +1,6 @@
 # Libraries
 from matplotlib import pyplot as plt
 import numpy as np
-import seaborn as sns
 import plotly.express as px
 from haversine import haversine
 
